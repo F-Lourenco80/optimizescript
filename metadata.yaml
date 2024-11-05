@@ -1,0 +1,5 @@
+homepage: "https://www.acquia.com/products/acquia-optimize"
+documentation: "https://docs.acquia.com/acquia-optimize/overview"
+versions:
+  - sha: 19037b729822895dbf512991987fdbde6dc77daf
+    changeNotes: Initial release.
